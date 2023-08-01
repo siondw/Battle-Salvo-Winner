@@ -1,0 +1,10 @@
+- A few notes about design decisions I made
+
+    1. the game coordinates are 0-based index
+    2. The flow of the game is like this - the GameController basically stores everything
+        - it creates the boards based on the given inputs it gets
+        - it then passes the players the boards that they need
+        - it then controls how many time the model's game loop runs
+        - and displays the boards after each iteration
+    3. I made multiple classes for testing controller because it was easier to make before each methods
+    4.
