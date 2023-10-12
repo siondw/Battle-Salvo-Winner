@@ -1,5 +1,5 @@
 # Battle-Salvo-Winner
-I developed an innovative Java algorithm to master a unique version of the classic game, Battleship. 
+We developed an innovative Java algorithm to master a unique version of the classic game, Battleship. 
 
 
 The Game Rules are as follows: ### Board Size
